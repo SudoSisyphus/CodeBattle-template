@@ -1,0 +1,2 @@
+# CodeBattle-template
+Just ignore
